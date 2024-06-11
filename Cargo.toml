@@ -1,0 +1,6 @@
+[package]
+name = "rizz_ruzz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
